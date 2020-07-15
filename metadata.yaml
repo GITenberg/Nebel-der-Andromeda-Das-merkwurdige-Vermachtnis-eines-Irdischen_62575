@@ -1,0 +1,26 @@
+_repo: Nebel-der-Andromeda-Das-merkwurdige-Vermachtnis-eines-Irdischen_62575
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brehmer, Fritz
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '52010'
+    url: http://www.gutenberg.org/2009/agents/52010
+description: ''
+gutenberg_issued: '2020-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62575'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Nebel der Andromeda
+
+  Das merkwürdige Vermächtnis eines Irdischen'
+url: http://www.gutenberg.org/ebooks/62575
